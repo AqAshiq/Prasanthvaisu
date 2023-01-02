@@ -14,5 +14,10 @@ public class Pv {
 	public void m3() {
 	    System.out.println("cccccccc");
 		}
+	
+	public void name() {
+
+		System.out.println("Ramziii");
+	}
 
 }
